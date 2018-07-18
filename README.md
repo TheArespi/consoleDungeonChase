@@ -1,6 +1,6 @@
 # Console Dungeon Chase Game
 
-this is a simple console game with a simple mechanics. 
+You(the player) are stuck inside a dungeon you need to find the key and escape before the enemy catch you. This is a console(terminal/cmd not PS3, XBox and the like) game.
 
 <h2>Goal</h1>
 <p>You have to get the key and enter the door to the next level</p>
